@@ -7,3 +7,6 @@
 [LinkedIn](http://www.linkedin.com/in/francesca-yihang-li)
 
 Hello! My name is Francesca and I am a junior majoring in finance in Lehigh University. I'm expecting a future carrer focusing on financial management incorporating data processing - this is also the reason make me take this course. I love snowboarding and surfboarding!
+
+
+<iframe title="[ Lehigh Undergraduate Enrollment Spring 2020]" aria-label="Pie Chart" id="datawrapper-chart-kb7vL" src="https://datawrapper.dwcdn.net/kb7vL/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="639" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
