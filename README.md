@@ -2,7 +2,7 @@
 
 ### Comm 165 Data Storytelling
 
-<img src="https://github.com/Francesca0320/francesca0320.github.io/files/11581010/ID.photo.pdf" width="500" >
+<img src="![ID photo](https://github.com/Francesca0320/francesca0320.github.io/assets/78563862/86e625f1-a0d2-4b13-8c95-0448e12390d4)" width="500" >
 
 [LinkedIn](http://www.linkedin.com/in/francesca-yihang-li)
 
